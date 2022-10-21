@@ -30,5 +30,4 @@ public class LoadBalancedRoutesConfig {
                                .uri("lb://beer-inventory-failover-service"))
                 .build();
     }
-
 }
